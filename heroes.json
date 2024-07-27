@@ -1,0 +1,84 @@
+{
+  "heroes": [
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "8a2ca90d-eeba-4f21-99f5-5e100bd9955c",
+      "name": "Аюб Б.",
+      "description": "000",
+      "element": "water"
+    },
+    {
+      "id": "001fe902-d7f6-41bc-b82c-fdd819e34633",
+      "name": "Аюб Б.",
+      "description": "uy ",
+      "element": "fire"
+    },
+    {
+      "id": "35fd2f58-e716-4a1b-88b2-e2e3aad0d6d3",
+      "name": "Аюб Б.",
+      "description": "22",
+      "element": "wind"
+    },
+    {
+      "id": "41fb75fc-27ed-4f7f-88e0-06658c16d1e4",
+      "name": "Me",
+      "description": "Blow",
+      "element": "wind"
+    },
+    {
+      "id": "161c7c55-80b7-4bf6-9144-bde102006f8c",
+      "name": "Fuck",
+      "description": "Fuckkk",
+      "element": "earth"
+    },
+    {
+      "id": "aa49792f-919c-4741-9672-5d81c103e4ad",
+      "name": "Dickhead",
+      "description": "Ruin",
+      "element": "fire"
+    },
+    {
+      "id": "5d7e9227-a217-4a27-bb1f-b3f38d20c6a7",
+      "name": "Lui",
+      "description": "CraWL",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
